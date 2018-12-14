@@ -6,7 +6,7 @@ Where we are
 - follow us on twitter [@dashdash](https://twitter.com/dashdash).
 
 
-# About use
+# About us
 
 [dashdash](https://dashdash.com) is an app creator with a spreadsheet interface.
 
