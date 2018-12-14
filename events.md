@@ -1,16 +1,15 @@
-Here's a list of events where we attended or participated
-
-# events dashdash organized 🎟👩‍🏫📢
-
+# dashdash events 🎟👩‍🏫📢
+Stuff we organized.
 - dashdash monthly tech talks
 
-# events where we participated 🤝🙌
+# external events
+
+## events where we participated 🤝🙌
 
 - 2018-12 ANJE Business Week, Porto, Portugal
     - HumbertoBAP talked about starting to scale a business
 
-# events we just attended 🤓📚
-Always learning!
+## event which we just attended 🤓📚
 
 Engineering
 - 2018-11 React Day, Berlin, Germany
@@ -21,3 +20,5 @@ Engineering
 Design
 - 2018-10 Mirror Conf, Braga, Portugal
 - 2017-04 OFFF Barcelona, Barcelona, Spain
+
+Send suggestions and comments to `hr @ dashdash . com`.
