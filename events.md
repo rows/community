@@ -1,15 +1,15 @@
-# 🎟👩‍🏫 dashdash events
+# dashdash events 🎟
 Stuff we organized.
 - dashdash monthly tech talks
 
 # external events
 
-## 📣🙌 events where we participated 
+## events where we participated 📣
 
 - 2018-12 ANJE Business Week, Porto, Portugal
     - HumbertoBAP talked about starting to scale a business
 
-## 🤓📚 events which we just attended
+## events which we just attended 🤓
 
 Engineering
 - 2018-11 React Day, Berlin, Germany
