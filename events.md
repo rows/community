@@ -1,6 +1,6 @@
 # dashdash events 🎟
 Stuff we organized.
-- dashdash monthly tech talks
+- dashdash monthly tech talks. Check them in our [youtube channel](https://www.youtube.com/channel/UCQUmiIyETHv8ccZLdsvNzdA).
 
 # external events
 
