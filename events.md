@@ -12,9 +12,9 @@ Stuff we organized.
 ## events which we just attended 🤓
 
 Engineering
-- 2019-05 Devoxx, London, UK
-- 2019-04 [Agile Lean Ireland conference, Dublin, Ireland](event_ALI2019.md)
-- 2019-03 Typeof conference, Porto, Portugal
+- 2019-05 Devoxx, London, UK (Pedro Carneiro, Luís Silva)
+- 2019-04 [Agile Lean Ireland conference, Dublin, Ireland](event_ALI2019.md) (Daniela, Nuno)
+- 2019-03 Typeof conference, Porto, Portugal (Canastro, Lima, Marcus)
 - 2018-11 React Day, Berlin, Germany
 - 2018-10 Google Cloud Next '18, London, UK
 - 2018-05 We Are Developers, Vienna, Austria
