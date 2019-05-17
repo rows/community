@@ -1,7 +1,10 @@
 
-(WIP)
-ALI2019
-From 23rd to 26th April 2019, Dublin
+
+# Agile Lean Ireland - ALI2019
+
+https://www.agileleanireland.org/
+
+## April 23 to 26th, 2019
 
 **Day 1**
 Workshop
@@ -41,8 +44,8 @@ Highlights:
 https://drive.google.com/file/d/1Sbw7us2d4bSI42PwlZ5lpb0owcdoM1EF/view
 
 - HR: agile in action
-- HR: reinventing human resources for the future of work
 
+- HR: reinventing human resources for the future of work
 
 
 
