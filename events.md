@@ -16,7 +16,7 @@ Engineering
 Silva)
 - 2019-04 [Agile Lean Ireland conference, Dublin, Ireland](event_ALI2019.md) (Daniela, Nuno)
 - 2019-03 Typeof conference, Porto, Portugal (Canastro, Lima, Marcus)
-- 2019-02 [NDC Porto](ndc-porto.md), Porto, Portugal (Bluemel, Luís Silva)
+- 2019-02 [NDC Porto](events/ndc-porto.md), Porto, Portugal (Bluemel, Luís Silva)
 - 2018-11 React Day, Berlin, Germany
 - 2018-10 Google Cloud Next '18, London, UK
 - 2018-05 We Are Developers, Vienna, Austria
