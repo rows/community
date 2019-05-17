@@ -4,7 +4,7 @@ https://ndcporto.com/
 
 ## Feb 28 to Mar 1, 2019
 
-[Videos of conference talks](https://www.youtube.com/watch?v=WHb-lJbID-4&list=PL03Lrmd9CiGeSu3F7Te9euJXvqz3wnmvJ)
+[Playlist of talks](https://www.youtube.com/watch?v=WHb-lJbID-4&list=PL03Lrmd9CiGeSu3F7Te9euJXvqz3wnmvJ)
 
 ### Good talks we've seen
 
