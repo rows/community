@@ -14,7 +14,7 @@ Stuff we organized.
 Engineering
 - 2019-05 [Devoxx, London, UK](events/devoxx-uk.md) (Pedro Carneiro, Luís
 Silva)
-- 2019-04 [Agile Lean Ireland conference, Dublin, Ireland](event_ALI2019.md) (Daniela, Nuno)
+- 2019-04 [Agile Lean Ireland conference, Dublin, Ireland](events/event_ALI2019.md) (Daniela, Nuno)
 - 2019-03 Typeof conference, Porto, Portugal (Canastro, Lima, Marcus)
 - 2019-02 [NDC Porto](events/ndc-porto.md), Porto, Portugal (Bluemel, Luís Silva)
 - 2018-11 React Day, Berlin, Germany
