@@ -38,7 +38,8 @@ Conference day2
 
 Highlights:
 
-- ![The Big Eight](./image.png)
+- The Big Eight
+(./image.png)
 
 - Agile Management
 https://drive.google.com/file/d/1Sbw7us2d4bSI42PwlZ5lpb0owcdoM1EF/view
