@@ -12,6 +12,8 @@ Stuff we organized.
 ## events which we just attended 🤓
 
 Engineering
+- 2019-05 [Kubecon + CloudNativeCon, Barcelona, Spain
+](events/kubecon.md) (Bluemel, Miguel Rosa)
 - 2019-05 [Devoxx, London, UK](events/devoxx-uk.md) (Pedro Carneiro, Luís
 Silva)
 - 2019-04 [Agile Lean Ireland conference, Dublin, Ireland](events/event_ALI2019.md) (Daniela, Nuno)
