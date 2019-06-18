@@ -13,10 +13,10 @@ Stuff we organized.
 
 Engineering
 - 2019-05 [Kubecon + CloudNativeCon, Barcelona, Spain
-](events/kubecon.md) (Bluemel, Miguel Rosa)
-- 2019-05 [Devoxx, London, UK](events/devoxx-uk.md) (Pedro Carneiro, Luís
+](https://github.com/dashdash/company/blob/master/global%20hr%20processes%20%26%20policies/Training/2019-05%20Kubecon/kubecon.md) (Bluemel, Miguel Rosa)
+- 2019-05 [Devoxx, London, UK](https://github.com/dashdash/company/blob/master/global%20hr%20processes%20%26%20policies/Training/2019-05%20Devoxx/devoxx-uk.md) (Pedro Carneiro, Luís
 Silva)
-- 2019-04 [Agile Lean Ireland conference, Dublin, Ireland](events/event_ALI2019.md) (Daniela, Nuno)
+- 2019-04 [Agile Lean Ireland conference, Dublin, Ireland](https://github.com/dashdash/company/blob/master/global%20hr%20processes%20%26%20policies/Training/2019-04%20Agile%20Lean%20Ireland/event_ALI2019.md) (Daniela, Nuno)
 - 2019-03 Typeof conference, Porto, Portugal (Canastro, Lima, Marcus)
 - 2019-02 [NDC Porto](https://github.com/dashdash/company/blob/master/global%20hr%20processes%20%26%20policies/Training/2019-02%20NDC%20Porto/ndc-porto.md), Porto, Portugal (Bluemel, Luís Silva)
 - 2018-11 React Day, Berlin, Germany
