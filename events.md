@@ -13,12 +13,11 @@ Stuff we organized.
 
 Engineering
 - 2019-05 [Kubecon + CloudNativeCon, Barcelona, Spain
-](https://github.com/dashdash/company/blob/master/global%20hr%20processes%20%26%20policies/Training/2019-05%20Kubecon/kubecon.md) (Bluemel, Miguel Rosa)
-- 2019-05 [Devoxx, London, UK](https://github.com/dashdash/company/blob/master/global%20hr%20processes%20%26%20policies/Training/2019-05%20Devoxx/devoxx-uk.md) (Pedro Carneiro, Luís
-Silva)
-- 2019-04 [Agile Lean Ireland conference, Dublin, Ireland](https://github.com/dashdash/company/blob/master/global%20hr%20processes%20%26%20policies/Training/2019-04%20Agile%20Lean%20Ireland/event_ALI2019.md) (Daniela, Nuno)
-- 2019-03 Typeof conference, Porto, Portugal (Canastro, Lima, Marcus)
-- 2019-02 [NDC Porto](https://github.com/dashdash/company/blob/master/global%20hr%20processes%20%26%20policies/Training/2019-02%20NDC%20Porto/ndc-porto.md), Porto, Portugal (Bluemel, Luís Silva)
+](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/) (Bluemel, Miguel Rosa)
+- 2019-05 [Devoxx, London, UK](https://www.devoxx.co.uk/) (Pedro Carneiro, LuísSilva)
+- 2019-04 [Agile Lean Ireland conference, Dublin, Ireland](https://www.agileleanireland.org/) (Daniela, Nuno)
+- 2019-03 [Typeof conference, Porto, Portugal](https://typeofconf.com/) (Canastro, Lima, Marcus)
+- 2019-02 [NDC Porto](https://ndcporto.com/), Porto, Portugal (Bluemel, Luís Silva)
 - 2018-11 React Day, Berlin, Germany
 - 2018-10 Google Cloud Next '18, London, UK
 - 2018-05 We Are Developers, Vienna, Austria
