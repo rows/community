@@ -37,7 +37,7 @@ In terms of personnel, CASA was affected by:
 - the need to better prepare available teams, considering they are helping a population that is particularly vulnerable to the spread of COVID-19.
 
 In material terms, the impact is also mostly 2 factors:
-- for security reasons, food delivery is now done exclusively via wrapped kits, including utensils. They are being purchased by the local delegations with available emergency funds. Prior to COVID-19, CASA delivered food directly to the homeless and also organized "social restaurants" where people could have a hot meal, sitting down, served by volunteers, 365 days of the year — no questions asked.
+- for security reasons, food delivery is now done exclusively via wrapped kits, including utensils. They are being purchased by the local delegations with available emergency funds. Prior to COVID-19, CASA delivered food directly to the homeless and also organized "social restaurants" where people could have a sat-down hot dinner served by volunteers, 365 days of the year.
 - the drives for collecting donated funds are the main way they replenish stocks. However, because of the virus, supermarket drives are closed. The warehouses are in a critical state. As an example, in March the distribution of food baskets to ~90 families had to stop due to insufficient food.
 
 The team at CASA quantified that 34k€ is enough to sustain the food stock for 2 more months. Of this money, 28k€ is food and 6k€ is material for the kits (at ~0.2€/ meal). All the work is done by volunteers. 
