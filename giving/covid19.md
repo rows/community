@@ -2,7 +2,7 @@
 
 * The COVID-19 pandemic affects everyone, but mostly those who are less fortunate. 
 * The Portuguese institution CASA (NIF: 506116786) needs our help.
-* And so a group of entrepreneus and friends are organizing a drive to collect up to 34k€, enough to sustain hundreds of families for about 2 months. 
+* And so a group of entrepreneus and friends are organizing a drive to collect up to **34.000€**, enough to sustain hundreds of families for about 2 months. 
 * This is a lean, volunteer-based operation, and your money will go directly into food supplies + kit material that will support the majority of 4.059 people (1542 families).
 
 # HELP NOW
