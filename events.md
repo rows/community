@@ -28,12 +28,6 @@ Design
 
 Send suggestions and comments to `hr @ dashdash . com`.
 
-# Giving
-
-## donate
-
-COVID-19. Donate to help the homeless and the poor in Portugal. [Here](https://github.com/dashdash/community/blob/master/giving/covid19.md)
-
 ## use our office
 
 dashdash is available to lend its Porto office for outside events. Events must be serious, but we can take art, computing, startups, business, learning and teaching and other topics. We have the capacity for >50 people.
