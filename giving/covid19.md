@@ -58,7 +58,7 @@ The food will support the local CASA operations in:
 - PAREDES
 - SETÚBAL
 
-And will purchase >97.000 unit of the following goods: sugar, rice, pasta (Spaghetti and other formats), flour, beans (dry and canned), chickpeas (dry and canned), salt, tuna, tomatoes (canned), sausages (pre-cooked), olive oil, cooking oil, milk. 
+And will purchase >97.000 units of the following goods: sugar, rice, pasta (Spaghetti and other formats), flour, beans (dry and canned), chickpeas (dry and canned), salt, tuna, tomatoes (canned), sausages (pre-cooked), olive oil, cooking oil, milk. It's mostly 1kg/ 1L sized food-items. CASA has a detailed list of needs per zone in case you want to check it (contact me). 
 
 # More
 
