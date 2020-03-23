@@ -26,7 +26,7 @@ Donations
 - Humberto Ayres Pereira (dashdash)
 - XXX (XXX)
 
-Note: donations are sorted by amount, then date.
+Note: donations are sorted by amount, then date. 
 
 # Background
 
