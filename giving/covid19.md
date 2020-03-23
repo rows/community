@@ -44,12 +44,30 @@ The team at CASA quantified that 34k€ is enough to sustain the food stock for 
 
 These food kits will be delivered by CASA. This effort will support a majority of 1542 families, that represent 4.059 beneficiaries. 
 
+# Detail 
+
+The food will support the local CASA operations in:
+- ALBUFEIRA
+- CASCAIS
+- COIMBRA
+- FARO
+- FIGUEIRA FOZ
+- LISBOA
+- MADEIRA
+- PORTO
+- PAREDES
+- SETÚBAL
+
+And will purchase >97.000 unit of the following goods: sugar, rice, pasta (Spaghetti and other formats), flour, beans (dry and canned), chickpeas (dry and canned), salt, tuna, tomatoes (canned), sausages (pre-cooked), olive oil, cooking oil, milk. 
 
 # More
 
 Many thanks to André Carqueja and the team at CASA for helping us organize this funds drive. 
 Any questions and offers, send directly to humberto@dashdash.com. 
 
-
 Thank you 
-- Humberto, co-founder and CEO dashdash.
+_Humberto, co-founder and CEO dashdash._
+
+## Go the extra mile
+
+CASA is present Portugal-wide. There are other smaller organizations, like Centro da Musgueira, who need your help. They do direct visits to the sick and elderly and also provide food. Find out who your local institutions are and donate. You can also contact me directly and I will help you send your hard-earned money into urgent problems.
