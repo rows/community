@@ -15,7 +15,7 @@ CASA will provide legal receipts of your donations.
 IF you are donating:
 - make a bank transfer to the IBAN XXX.
 - send the transfer confirmation via email to humberto@dashdash.com so that I organize receipts.
-- tell me if you are doing a public or private donation. I will only list them, and may give a shout or 2 on twitter.
+- tell me if you are doing a public or private donation. I will list them here, and may give a shout or 2 on twitter.
 
 # Status
 
