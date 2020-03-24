@@ -9,7 +9,7 @@
 
 **GIVE**. These people need your help.
 
-I ask that the leaders of tech startups donate ~1k€ and above. I also ask that their companies also donate.
+I ask that the leaders of tech startups donate ~1k€ and above. Your companies can donate too.
 CASA will provide legal receipts of your donations.
 
 IF you are donating:
