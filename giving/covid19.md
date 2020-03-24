@@ -19,12 +19,13 @@ IF you are donating:
 
 # Status
 
-Total: 4k€ (12%)
+Total: 4.05k€ (12%)
 
 Donations
 - dashdash
 - Humberto Ayres Pereira (dashdash)
 - XXX (XXX)
+- Anonymous
 
 Note: donations are sorted by amount, then date. 
 
