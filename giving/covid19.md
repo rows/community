@@ -13,7 +13,7 @@ I ask that the leaders of tech startups donate ~1k€ and above. I also ask that
 CASA will provide legal receipts of your donations.
 
 IF you are donating:
-- make a bank transfer to the IBAN XXX.
+- make a bank transfer to IBAN `PT50 0036 0344 99100009838 81`.
 - send the transfer confirmation AND your taxID (PT or international) via email to humberto@dashdash.com so that I can organize receipts.
 - tell me if you are doing a public or private donation. I will list them here, and may give a shout or 2 on twitter.
 
