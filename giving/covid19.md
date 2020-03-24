@@ -27,8 +27,6 @@ Donations
 - Simão Belchior (vizzuality)
 - Anonymous x 4
 
-Note: donations are sorted by amount, then date. 
-
 # Background
 
 The institution [CASA](https://casa-apoioaosemabrigo.org) (_Centro de Apoio ao Sem-Abrigo_ or the Center for Support to the Homeless) has been very affected by the COVID-19 pandemic. 
