@@ -19,7 +19,7 @@ IF you are donating:
 
 # Status
 
-Total: 4.25k€ (12%)
+Total: 4.25k€ (13%)
 
 Donations
 - dashdash
