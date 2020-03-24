@@ -26,10 +26,10 @@ Donations
 - Humberto Ayres Pereira (dashdash)
 - Anonymous doner
 - Simão Belchior (vizzuality)
-- Anonymous
-- Anonymous
-- Anonymous
-- Anonymous
+- Anonymous doner
+- Anonymous doner
+- Anonymous doner
+- Anonymous doner
 
 # Background
 
