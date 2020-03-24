@@ -19,13 +19,17 @@ IF you are donating:
 
 # Status
 
-Total: 4.46k€ (13%)
+Total: 5.46k€ (16%)
 
 Donations
 - dashdash
 - Humberto Ayres Pereira (dashdash)
+- Anonymous doner
 - Simão Belchior (vizzuality)
-- Anonymous x 4
+- Anonymous
+- Anonymous
+- Anonymous
+- Anonymous
 
 # Background
 
