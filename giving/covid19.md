@@ -19,12 +19,14 @@ IF you are donating:
 
 # Status
 
-Total: 5.46k€ (16%)
+Total: 6.46k€ (19%)
 
 Donations
 - dashdash
 - Humberto Ayres Pereira (dashdash)
+- Miguel Santo Amaro (Uniplaces, coverflex)
 - Anonymous doner
+- Anonymous VC fund
 - Simão Belchior (vizzuality)
 - Anonymous doner
 - Anonymous doner
