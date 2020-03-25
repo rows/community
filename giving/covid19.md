@@ -19,7 +19,7 @@ IF you are donating:
 
 # Status - 20% - We still need your help.
 
-Total: 6.660€ (20%)
+Total: 7.010€ (21%)
 
 Donations
 - dashdash
@@ -29,6 +29,10 @@ Donations
 - Anonymous doner
 - Anonymous VC fund
 - Simão Belchior (vizzuality)
+- Anonymous doner
+- Anonymous doner
+- Anonymous doner
+- Anonymous doner
 - Anonymous doner
 - Anonymous doner
 - Anonymous doner
