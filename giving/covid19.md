@@ -25,18 +25,18 @@ Donations
 - dashdash
 - Humberto Ayres Pereira (dashdash)
 - Miguel Santo Amaro (Uniplaces, coverflex)
-- Anonymous doner
-- Anonymous doner
+- Anonymous donor
+- Anonymous donor
 - Anonymous VC fund
 - Simão Belchior (vizzuality)
-- Anonymous doner
-- Anonymous doner
-- Anonymous doner
-- Anonymous doner
-- Anonymous doner
-- Anonymous doner
-- Anonymous doner
-- Anonymous doner
+- Anonymous donor
+- Anonymous donor
+- Anonymous donor
+- Anonymous donor
+- Anonymous donor
+- Anonymous donor
+- Anonymous donor
+- Anonymous donor
 
 # Background
 
