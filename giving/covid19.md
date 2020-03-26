@@ -17,14 +17,15 @@ IF you are donating:
 - **please send the transfer confirmation AND your taxID (PT or international) via email to humberto@dashdash.com so that I can organize receipts and track the amounts.**
 - **also tell me if you are doing a public or private donation.** I will list them here, and may give a shout or 2 on twitter.
 
-# Status - 22% - We still need your help.
+# Status - 25% - We still need your help.
 
-Total: 7.540€ (22%)
+Total: 8.540€ (25%)
 
 Donations
 - dashdash
 - Humberto Ayres Pereira (dashdash)
 - Miguel Santo Amaro (Uniplaces, coverflex)
+- Anonymous donor
 - Anonymous donor
 - Anonymous donor
 - Anonymous VC fund
