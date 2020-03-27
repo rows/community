@@ -19,7 +19,7 @@ IF you are donating:
 
 # Status - 25% - We still need your help.
 
-Total: 8.640€ (25%)
+Total: 8.640€ (25%) of the 34.000€ need.
 
 Donations
 - dashdash
@@ -72,6 +72,7 @@ Many thanks to André Carqueja and the team at CASA for helping us organize this
 Any questions and offers, send directly to humberto@dashdash.com. 
 
 Thank you 
+
 _Humberto, co-founder and CEO dashdash._
 
 ## Go the extra mile
