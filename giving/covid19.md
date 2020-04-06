@@ -17,9 +17,9 @@ IF you are donating:
 - **please send the transfer confirmation AND your taxID (PT or international) via email to humberto@dashdash.com so that I can organize receipts and track the amounts.**
 - **also tell me if you are doing a public or private donation.** I will list them here, and may give a shout or 2 on twitter.
 
-# Status - 27% - We still need your help.
+# Status - 29% - We still need your help.
 
-Total: 9.138,61€ (27%) of the 34.000€ need.
+Total: 9.738,61€ (29%) of the 34.000€ need.
 
 Donations
 - dashdash
@@ -29,6 +29,7 @@ Donations
 - Anonymous donor
 - Anonymous donor
 - Anonymous VC fund
+- Anonymous donor
 - Anonymous donor
 - Simão Belchior (vizzuality)
 - Anonymous donor
