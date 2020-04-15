@@ -17,9 +17,9 @@ IF you are donating:
 - **please send the transfer confirmation AND your taxID (PT or international) via email to humberto@dashdash.com so that I can organize receipts and track the amounts.**
 - **also tell me if you are doing a public or private donation.** I will list them here, and may give a shout or 2 on twitter.
 
-# Status - 40% - We still need your help.
+# Status - 41% - We still need your help.
 
-Total: 13.688,61€ (40%) of the 34.000€ need.
+Total: 13.808,61€ (41%) of the 34.000€ need.
 
 Donations
 - Armilar Venture Partners
@@ -34,6 +34,7 @@ Donations
 - Anonymous donor
 - Anonymous donor
 - Simão Belchior (vizzuality)
+- Anonymous donor
 - Anonymous donor
 - Anonymous donor
 - Anonymous donor
