@@ -19,7 +19,7 @@ IF you are donating:
 
 # Status - 41% - We still need your help.
 
-Total: 13.808,61€ (41%) of the 34.000€ need.
+Total: 14.108,61€ (41%) of the 34.000€ need.
 
 Donations
 - Armilar Venture Partners
@@ -34,6 +34,9 @@ Donations
 - Anonymous donor
 - Anonymous donor
 - Simão Belchior (vizzuality)
+- Anonymous donor
+- Anonymous donor
+- Anonymous donor
 - Anonymous donor
 - Anonymous donor
 - Anonymous donor
