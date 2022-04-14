@@ -1,6 +1,6 @@
-# dashdash events 🎟
+# Rows events 🎟
 Stuff we organized.
-- dashdash monthly tech talks. Check them in our [youtube channel](https://www.youtube.com/channel/UCQUmiIyETHv8ccZLdsvNzdA).
+- Rows monthly tech talks. Check them in our [youtube channel](https://www.youtube.com/channel/UCQUmiIyETHv8ccZLdsvNzdA).
 
 # external events
 
@@ -26,8 +26,8 @@ Design
 - 2018-10 Mirror Conf, Braga, Portugal
 - 2017-04 OFFF Barcelona, Barcelona, Spain
 
-Send suggestions and comments to `hr @ dashdash . com`.
+Send suggestions and comments to `hr@rows.com`.
 
 ## use our office
 
-dashdash is available to lend its Porto office for outside events. Events must be serious, but we can take art, computing, startups, business, learning and teaching and other topics. We have the capacity for >50 people.
+Rows is available to lend its Porto office for outside events. Events must be serious, but we can take art, computing, startups, business, learning and teaching and other topics. We have the capacity for >50 people.
